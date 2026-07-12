@@ -16,7 +16,10 @@
     padding: 1rem;
 }
 .gallery-grid video{
-    height:777px
+    height:777px;
+    justify-content: space-evenly;
+    align-items: center;
+    
 }
 
 .gallery-item {

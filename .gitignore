@@ -1,0 +1,8 @@
+done.txt
+ffmpeg_command.txt
+config.py
+
+static/
+user_uploads/
+
+*.cache
