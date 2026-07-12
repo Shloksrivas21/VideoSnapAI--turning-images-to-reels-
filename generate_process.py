@@ -7,8 +7,8 @@ def text_to_speech(folder):
     print("TTA- ",folder)
     with open(f"user_uploads/{folder}/desc.txt") as f:
         text=f.read()
-    print(text,folder)
-    # text_to_speech_file(text,folder)
+    # print(text,folder)
+    text_to_speech_file(text,folder)
     
 
 def create_reel(folder):
