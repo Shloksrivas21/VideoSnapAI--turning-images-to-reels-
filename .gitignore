@@ -5,4 +5,5 @@ config.py
 static/
 user_uploads/
 
-*.cache
+__pycache__/
+
